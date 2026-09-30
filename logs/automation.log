@@ -462,3 +462,63 @@
 2026-09-29 16:53:47 DEBUG TC001_AccountPageTest - Debug the failed test case...
 2026-09-29 16:54:02 ERROR TC001_AccountPageTest - test case is failed!
 2026-09-29 16:54:02 DEBUG TC001_AccountPageTest - Debug the failed test case...
+2026-09-30 18:21:22 INFO  TC001_AccountPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:21:23 INFO  TC001_AccountPageTest - ************Starting the test case tc001 for new Account creation******
+2026-09-30 18:21:23 INFO  TC001_AccountPageTest - Click on the WebElemnt and navigate to the User Register page
+2026-09-30 18:21:24 INFO  TC001_AccountPageTest - Fill the form with User details...
+2026-09-30 18:21:30 INFO  TC001_AccountPageTest - Finished Test Case....
+2026-09-30 18:21:31 INFO  TC002_LogInPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:21:32 INFO  TC002_LogInPageTest - ************Starting the test case TC002 Login into Application******
+2026-09-30 18:21:32 INFO  TC002_LogInPageTest - Click on the MyAccount link
+2026-09-30 18:21:32 INFO  TC002_LogInPageTest - Click on the Login link
+2026-09-30 18:21:32 INFO  TC002_LogInPageTest - Fiil the login credentials
+2026-09-30 18:21:32 INFO  TC002_LogInPageTest - Entering username
+2026-09-30 18:21:32 INFO  TC002_LogInPageTest - Entering password
+2026-09-30 18:21:32 INFO  TC002_LogInPageTest - Click on Login Button
+2026-09-30 18:21:33 INFO  TC002_LogInPageTest - Validating user landed to My account page After logging
+2026-09-30 18:21:33 INFO  TC002_LogInPageTest - Test Case finished !
+2026-09-30 18:27:50 INFO  TC001_AccountPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:27:51 INFO  TC001_AccountPageTest - ************Starting the test case tc001 for new Account creation******
+2026-09-30 18:27:51 INFO  TC001_AccountPageTest - Click on the WebElemnt and navigate to the User Register page
+2026-09-30 18:27:52 INFO  TC001_AccountPageTest - Fill the form with User details...
+2026-09-30 18:27:58 INFO  TC001_AccountPageTest - Finished Test Case....
+2026-09-30 18:27:59 INFO  TC002_LogInPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:28:00 INFO  TC002_LogInPageTest - ************Starting the test case TC002 Login into Application******
+2026-09-30 18:28:00 INFO  TC002_LogInPageTest - Click on the MyAccount link
+2026-09-30 18:28:00 INFO  TC002_LogInPageTest - Click on the Login link
+2026-09-30 18:28:01 INFO  TC002_LogInPageTest - Fiil the login credentials
+2026-09-30 18:28:01 INFO  TC002_LogInPageTest - Entering username
+2026-09-30 18:28:01 INFO  TC002_LogInPageTest - Entering password
+2026-09-30 18:28:01 INFO  TC002_LogInPageTest - Click on Login Button
+2026-09-30 18:28:01 INFO  TC002_LogInPageTest - Validating user landed to My account page After logging
+2026-09-30 18:28:02 INFO  TC002_LogInPageTest - Test Case finished !
+2026-09-30 18:29:19 INFO  TC001_AccountPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:29:21 INFO  TC001_AccountPageTest - ************Starting the test case tc001 for new Account creation******
+2026-09-30 18:29:21 INFO  TC001_AccountPageTest - Click on the WebElemnt and navigate to the User Register page
+2026-09-30 18:29:21 INFO  TC001_AccountPageTest - Fill the form with User details...
+2026-09-30 18:29:27 INFO  TC001_AccountPageTest - Finished Test Case....
+2026-09-30 18:29:28 INFO  TC002_LogInPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:29:29 INFO  TC002_LogInPageTest - ************Starting the test case TC002 Login into Application******
+2026-09-30 18:29:29 INFO  TC002_LogInPageTest - Click on the MyAccount link
+2026-09-30 18:29:29 INFO  TC002_LogInPageTest - Click on the Login link
+2026-09-30 18:29:30 INFO  TC002_LogInPageTest - Fiil the login credentials
+2026-09-30 18:29:30 INFO  TC002_LogInPageTest - Entering username
+2026-09-30 18:29:30 INFO  TC002_LogInPageTest - Entering password
+2026-09-30 18:29:30 INFO  TC002_LogInPageTest - Click on Login Button
+2026-09-30 18:29:30 INFO  TC002_LogInPageTest - Validating user landed to My account page After logging
+2026-09-30 18:29:31 INFO  TC002_LogInPageTest - Test Case finished !
+2026-09-30 18:29:48 INFO  TC001_AccountPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:29:49 INFO  TC001_AccountPageTest - ************Starting the test case tc001 for new Account creation******
+2026-09-30 18:29:49 INFO  TC001_AccountPageTest - Click on the WebElemnt and navigate to the User Register page
+2026-09-30 18:29:49 INFO  TC001_AccountPageTest - Fill the form with User details...
+2026-09-30 18:29:55 INFO  TC001_AccountPageTest - Finished Test Case....
+2026-09-30 18:29:56 INFO  TC002_LogInPageTest - https://tutorialsninja.com/demo/
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - ************Starting the test case TC002 Login into Application******
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - Click on the MyAccount link
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - Click on the Login link
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - Fiil the login credentials
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - Entering username
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - Entering password
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - Click on Login Button
+2026-09-30 18:29:57 INFO  TC002_LogInPageTest - Validating user landed to My account page After logging
+2026-09-30 18:29:58 INFO  TC002_LogInPageTest - Test Case finished !

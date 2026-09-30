@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testCases.qa.demo.TC002_LogInPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.563 s -- in com.testCases.qa.demo.TC002_LogInPageTest

@@ -24,6 +24,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseClass {
@@ -34,7 +35,7 @@ public Properties prop;
 	
 	@BeforeClass
 	@Parameters({"os","browser"})
-	public void setup(String os, String br) throws MalformedURLException {
+	public void setup(@Optional("windows") String os, @Optional("chrome")String br) throws MalformedURLException {
 		logger = LogManager.getLogger(this.getClass());
 		FileInputStream file = null;
 		try {
